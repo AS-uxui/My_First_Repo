@@ -1,0 +1,27 @@
+.nav {
+    height: 80px;
+    background-color:lightgray;
+}
+.navButton{
+    display: inline-block;
+    width:100px;
+    height:50px;
+    background-color: darkgray;
+    font-size: 25px;
+    padding:15px;
+
+}
+
+
+.left{
+    float: left;
+    height: 500px;
+    width: 29;
+
+}
+
+.right{
+    float:right;
+    height:500px;
+
+}
